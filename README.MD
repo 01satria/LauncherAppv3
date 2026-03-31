@@ -29,7 +29,7 @@
     <td align="center" width="340" bgcolor="#0f1f2e">
       <br/>
       🌤️<br/>
-      <b><code>01</code> Intelligence+ Pill Bar</b><br/><br/>
+      <b><code>01</code> Smart Pill Bar</b><br/><br/>
       A single adaptive bar that surfaces what matters. Weather in the morning, calendar at noon, focus timers during work, and wind-down prompts at night. No clutter. No guessing.
       <br/><br/>
     </td>
