@@ -64,7 +64,7 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 
 <div align="center">
 
-## Design
+### Design
 
 `Dot-Matrix Typography` &nbsp;·&nbsp; `True OLED Black` &nbsp;·&nbsp; `Essential Iconography`
 
