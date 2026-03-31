@@ -1,14 +1,10 @@
 <div align="center">
-
 <br/>
 
 🌑
-
 # Minimal Launcher
-
 *A home screen built around clarity.*  
 *Inspired by the quiet elegance of Nothing OS.*
-
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-8.0%2B-000000?style=flat-square&logo=android&logoColor=white)
@@ -17,61 +13,41 @@
 ![Open Source](https://img.shields.io/badge/Open-Source-222222?style=flat-square)
 
 <br/>
-
 </div>
 
 ---
 
 <div align="center">
 
-<!-- FLEX GRID 2×2 (GitHub-compatible) -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 740px;">
+## Features
 
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
-<br/>
-
-### `01` — Intelligence+ Pill Bar
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><code>01</code> — Intelligence+ Pill Bar</h3>
 A single adaptive bar that surfaces what matters — weather in the morning, your calendar at noon, focus timers during work, and wind-down prompts at night. No clutter. No guessing.
-
-<br/>
-</td></tr></table>
-
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
-<br/>
-
-### `02` — Habit Heatmap
-
+</td>
+<td width="50%" valign="top">
+<h3><code>02</code> — Habit Heatmap</h3>
 Track your streaks with a contribution heatmap right on the home screen. Mark habits done directly from the Pill Bar — no app-switching, no friction.
-
-<br/>
-</td></tr></table>
-
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
-<br/>
-
-### `03` — Money Manager
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><code>03</code> — Money Manager</h3>
 Income and expense widgets that appear only when relevant. Financial clarity without ever leaving your home screen.
-
-<br/>
-</td></tr></table>
-
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate; width: 340px;"><tr><td align="center" bgcolor="#1a1a1a">
-<br/>
-
-### `04` — Adaptive App Drawer
-
+</td>
+<td width="50%" valign="top">
+<h3><code>04</code> — Adaptive App Drawer</h3>
 List mode for speed. Grid mode for beauty. Dynamic search finds any app instantly — exactly as your mind expects.
-
-<br/>
-</td></tr></table>
-
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
 <div align="center">
 
 ## Design
@@ -89,7 +65,6 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 ## Contribute
 
 </div>
-
 ```
 01  Fork the repository
 02  git checkout -b feature/your-idea
@@ -100,7 +75,6 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 ---
 
 <div align="center">
-
 <br/>
 
 *"Simplicity is the ultimate sophistication."*  
@@ -108,8 +82,7 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 
 <br/>
 
-Crafted with quiet passion by [01satria](https://github.com/01satria)
-
+Crafted with quiet passion by [01satria](https://github.com/01satria)  
 🌑
 
 </div>
