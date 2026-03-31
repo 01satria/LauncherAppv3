@@ -65,7 +65,7 @@
 
 <div align="center">
 
-## ✦ Design
+### ✦ Design
 
 🔡 `Dot-Matrix Typography` &nbsp;·&nbsp; ⬛ `True OLED Black` &nbsp;·&nbsp; ✦ `Essential Iconography`
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-## 🤝 Contribute
+### 🤝 Contribute
 
 </div>
 ```
