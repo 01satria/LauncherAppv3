@@ -121,8 +121,6 @@
 
  *"Simplicity is the ultimate sophistication."* ✦ Leonardo da Vinci
 
-<br/>
-
 Crafted with quiet passion by [01satria](https://github.com/01satria) 🌑
 
 </div>
