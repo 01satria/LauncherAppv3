@@ -13,6 +13,7 @@
 ![No Ads](https://img.shields.io/badge/🌿_No-Ads-0a1f1a?style=flat-square)
 
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
+<br/>
 *A home screen built around clarity.*
 <br/>
 *Inspired by the quiet elegance of OneUI and Origin OS.*
