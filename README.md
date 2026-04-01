@@ -11,9 +11,9 @@
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
 
 <br/>
-*A home screen built around clarity.*
+<em>A home screen built around clarity.</em>
 <br/>
-*Inspired by the quiet elegance of OneUI and Origin OS.*
+<em>Inspired by the quiet elegance of OneUI and Origin OS.</em>
 
 <br/>
 
