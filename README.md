@@ -113,7 +113,7 @@
 ---
 
 <div align="center">
-<pre>Simplicity is the ultimate sophistication</pre> ✦ Leonardo da Vinci
+<i>Simplicity is the ultimate sophistication</i> ✦ Leonardo da Vinci
 
 <br/>
 </div>
