@@ -27,9 +27,9 @@
 </div>
 
 ---
-### 🔎 Feature
 
 <div align="center">
+### 🔎 Feature
 
 <table>
   <tr>
