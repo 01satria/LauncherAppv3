@@ -36,8 +36,6 @@
       <br/>
       🌤️<br/>
       <b><code>01</code> Smart Pill Bar</b><br/><br/>
-      A single adaptive bar that surfaces what matters. Weather in the morning, calendar at noon, focus timers during work, and wind-down prompts at night. No clutter. No guessing.
-      <br/><br/>
     </td>
     <td align="center" width="340" bgcolor="#1a0f2e">
       <br/>
