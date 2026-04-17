@@ -81,6 +81,18 @@
       <b><code>08</code> Depth Wallpaper</b><br/><br/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="340" bgcolor="#2e1a2e">
+      <br/>
+      🕌<br/>
+      <b><code>09</code> Prayer Time</b><br/><br/>
+    </td>
+    <td align="center" width="340" bgcolor="#1a2e2e">
+      <br/>
+      <br/>
+      <b><code></code></b><br/><br/>
+    </td>
+  </tr>
 </table>
 
 </div>
