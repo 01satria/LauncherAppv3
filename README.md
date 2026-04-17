@@ -134,7 +134,7 @@
 |------------------------|--------------|-----------|----------|
 | Auto Receipt Scanner | Review | | 🔘 |
 | Hide Status Bar | Review | | 🔘 |
-| Widget Integration | Testing | | |
+| Widget Integration | Review | | 🔘 |
 | Senior Mode | Pending | | |
 | Kids Mode | Pending | | |
 | Liquid Glass Effect | Fix Bug | | |
