@@ -127,7 +127,7 @@
 | Kids Mode | Pending | | |
 | Liquid Glass Effect | In Progress| | |
 | AI Integration | Backlog | | |
-| Prayer Time | Backlog | | |
+| Prayer Time | In Progress | | |
 | Football League Info | Backlog | | |
 | Exchange Rate Currency | Pending | | |
 | Motivation Word | Backlog | | |
