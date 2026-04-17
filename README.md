@@ -122,6 +122,7 @@
 |------------------------|--------------|-----------|----------|
 | Receipt Scanner | Review | |✅|
 | Hide Status Bar | Review | |✅|
+| Widget Integration | Testing | | |
 | Senior Mode | Pending | | |
 | Kids Mode | Pending | | |
 | Liquid Glass Effect | In Progress| | |
