@@ -1,5 +1,4 @@
 <div align="center">
-*ver 1.6 beta will release at 20.00 West Indonesian Time UTC+07.00
 <br/>
 
 <img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
