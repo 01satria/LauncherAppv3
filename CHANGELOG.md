@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 - Money widget formatting to correctly follow user-defined currency settings.
 - Activity transitions and navigation flow between Chat and Settings.
 
-## [1.5]
+## [1.5] - 2026-04-15
 ### Added
 - Official branding for "Cloudys AI" with a refined personality.
 - Native Pomodoro Timer for productivity tracking.
