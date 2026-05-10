@@ -141,7 +141,7 @@
 | Prayer Time | Done | 🔘 | |
 | Football League Info | Backlog | | |
 | Exchange Rate Currency | Done | 🔘 | |
-| Ultra Immersive Screen | Backlog | | |
+| Ultra Immersive Screen | Done | 🔘 | |
 
 
 <img src="public/image/devflow.svg" width="400" alt="Flow process" />
